@@ -3,14 +3,24 @@
 ## Я начинающий IT-специалист
 
 ### Courses
-### Stepik.org 
-#### 2021 Веб-разработка для начинающих: HTML и CSS от ITC, РЭУ им. Г.В. Плеханова (сертификат)
-#### 2021 Java Script для начинающих от Anton Kholin (сертификат)
+<div style="margin-bottom: 20px"></div>
 
-### HaсkerU (ОАНО ДПО «Выштех») 
-#### 2022 Специалист по Frontend разработке (Диплом о дополнительном образовании)
-### Томский ГУ 
-#### 2022 - Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)
+### Stepik.org, 2021
+---
+#### Веб-разработка для начинающих: HTML и CSS от ITC, РЭУ им. Г.В. Плеханова (сертификат)
+#### Java Script для начинающих от Anton Kholin (сертификат)
+<div style="margin-bottom: 15px"></div>
+
+### HaсkerU (ОАНО ДПО «Выштех»), 2022 
+---
+#### Специалист по Frontend разработке (Диплом о дополнительном образовании)
+
+<div style="margin-bottom: 15px"></div>
+
+### Томский ГУ, 2022
+---
+#### Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)
+<div style="margin-bottom: 20px"></div>
 
 ### Languages and Tools
 ![javaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
