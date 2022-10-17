@@ -6,6 +6,8 @@
 
 #### **Stepik.org, 2021**
 
+![Stepik.org](https://img.shields.io/badge/Stepik.org-090909?style=for-the-badge&logo=Stepik.org&logoColor=yellow)
+
 ---
 <h5> Веб-разработка для начинающих: HTML и CSS от ITC, РЭУ им. Г.В. Плеханова (сертификат)</h4>
 <h5 style="margin-bottom: 15px"> Java Script для начинающих от Anton Kholin (сертификат)</h4>
