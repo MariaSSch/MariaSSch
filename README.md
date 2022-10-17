@@ -4,23 +4,22 @@
 
 <h3  style="margin-bottom: 30px; color: darkgrey">Courses</h3>
 
-#### **Stepik.org, 2021**
 
-![Stepik.org](https://img.shields.io/badge/Stepik.org-090909?style=for-the-badge&logo=Stepik.org&logoColor=yellow)
+![Stepik.org](https://img.shields.io/badge/Stepik.org,&nbsp;2021-63666a?style=for-the-badge&logo)
 
----
-<h5> Веб-разработка для начинающих: HTML и CSS от ITC, РЭУ им. Г.В. Плеханова (сертификат)</h4>
-<h5 style="margin-bottom: 15px"> Java Script для начинающих от Anton Kholin (сертификат)</h4>
 
-#### **HaсkerU (ОАНО ДПО «Выштех»), 2022**
 
----
-<h5  style="margin-bottom: 15px"> Специалист по Frontend разработке (Диплом о дополнительном образовании)</h4>
+<h4> Веб-разработка для начинающих: HTML и CSS от ITC, РЭУ им. Г.В. Плеханова (сертификат)</h4>
+<h4 style="margin-bottom: 15px"> Java Script для начинающих от Anton Kholin (сертификат)</h4>
 
-#### **Томский ГУ, 2022**
+![HackerU](https://img.shields.io/badge/HackerU&nbsp;(ОАНО&nbsp;ДПО&nbsp;«Выштех»)&nbsp;2022-63666a?style=for-the-badge&logo)
 
----
-<h5  style="margin-bottom: 30px"> Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)</h4>
+<h4  style="margin-bottom: 15px"> Специалист по Frontend разработке (Диплом о дополнительном образовании)</h4>
+
+![Tomsk](https://img.shields.io/badge/Томский&nbsp;ГУ,&nbsp;2022-63666a?style=for-the-badge&logo)
+
+
+<h4  style="margin-bottom: 30px"> Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)</h4>
 
 <h3  style="margin-bottom: 30px; color: darkgrey"> Languages and Tools<h3>
 
