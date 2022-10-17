@@ -7,18 +7,18 @@
 <h4 style="font-weight: 700"> Stepik.org, 2021</h4>
 
 ---
-<h4> Веб-разработка для начинающих: HTML и CSS от ITC, РЭУ им. Г.В. Плеханова (сертификат)</h4>
-<h4 style="margin-bottom: 15px"> Java Script для начинающих от Anton Kholin (сертификат)</h4>
+<h5> Веб-разработка для начинающих: HTML и CSS от ITC, РЭУ им. Г.В. Плеханова (сертификат)</h4>
+<h5 style="margin-bottom: 15px"> Java Script для начинающих от Anton Kholin (сертификат)</h4>
 
 <h4 style="font-weight: 700"> HaсkerU (ОАНО ДПО «Выштех»), 2022 </h4>
 
 ---
-<h4  style="margin-bottom: 15px"> Специалист по Frontend разработке (Диплом о дополнительном образовании)</h4>
+<h5  style="margin-bottom: 15px"> Специалист по Frontend разработке (Диплом о дополнительном образовании)</h4>
 
 <h4 style="font-weight: 700"> Томский ГУ, 2022</h4>
 
 ---
-<h4  style="margin-bottom: 30px"> Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)</h4>
+<h5  style="margin-bottom: 30px"> Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)</h4>
 
 <h3  style="margin-bottom: 30px; color: darkgrey"> Languages and Tools<h3>
 
