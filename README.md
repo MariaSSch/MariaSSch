@@ -3,26 +3,28 @@
 ## Я начинающий IT-специалист
 
 ### Courses
-<div style="margin-bottom: 20px"></div>
+<div style="margin-bottom: 30px"></div>
 
-### Stepik.org, 2021
+#### Stepik.org, 2021
 ---
-#### Веб-разработка для начинающих: HTML и CSS от ITC, РЭУ им. Г.В. Плеханова (сертификат)
-#### Java Script для начинающих от Anton Kholin (сертификат)
+##### Веб-разработка для начинающих: HTML и CSS от ITC, РЭУ им. Г.В. Плеханова (сертификат)
+##### Java Script для начинающих от Anton Kholin (сертификат)
 <div style="margin-bottom: 15px"></div>
 
-### HaсkerU (ОАНО ДПО «Выштех»), 2022 
+#### HaсkerU (ОАНО ДПО «Выштех»), 2022 
 ---
-#### Специалист по Frontend разработке (Диплом о дополнительном образовании)
+##### Специалист по Frontend разработке (Диплом о дополнительном образовании)
 
 <div style="margin-bottom: 15px"></div>
 
-### Томский ГУ, 2022
+#### Томский ГУ, 2022
 ---
-#### Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)
-<div style="margin-bottom: 20px"></div>
+##### Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)
+<div style="margin-bottom: 30px"></div>
 
 ### Languages and Tools
+<div style="margin-bottom: 30px"></div>
+
 ![javaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white)
