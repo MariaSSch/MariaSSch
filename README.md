@@ -2,7 +2,7 @@
 
 <h2>Я начинающий IT-специалист</h2>
 
-<h3  style="margin-bottom: 30px; color: darkgrey">Courses</h3>
+<h2  style="margin-bottom: 30px; color: darkgrey">Courses</h2>
 
 
 ![Stepik.org](https://img.shields.io/badge/Stepik.org,&nbsp;2021-63666a?style=for-the-badge&logo)
@@ -21,7 +21,7 @@
 
 <h4  style="margin-bottom: 30px"> Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)</h4>
 
-<h3  style="margin-bottom: 30px; color: darkgrey"> Languages and Tools<h3>
+<h2  style="margin-bottom: 30px; color: darkgrey"> Languages and Tools<h2>
 
 ![javaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=blue)
