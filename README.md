@@ -21,7 +21,7 @@
 
 <h4  style="margin-bottom: 30px"> Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)</h4>
 
-<h2  style="margin-bottom: 30px; color: darkgrey"> Languages and Tools<h2>
+<h2  style="margin-bottom: 30px; color: darkgrey"> Languages and Tools</h2>
 
 ![javaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=blue)
@@ -30,3 +30,23 @@
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=red)
 ![Testrail](https://img.shields.io/badge/Testrail-090909?style=for-the-badge&logo=TestRail&logoColor=red)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=blue)
+
+
+<h2  style="margin-bottom: 30px; color: darkgrey"> Опыт разработки</h2>
+
+- [Корзина товаров](https://github.com/MariaSSch/Frontend_Jr_Test_task_Cart_of_Goods_-model-.git) (React+React-Bootstrap)
+
+- [Авторизация с помощью Firebase](https://github.com/MariaSSch/Authentication-with-Firebase.git) (React) 
+
+- [Список пользователей](https://github.com/MariaSSch/Frontend_Jr_Test_task_from_RooXSolutions) (React+Webpack)  [deploy](https://mariassch.github.io/Frontend_Jr_Test_task_from_RooXSolutions/)
+
+- [ToDo List](https://github.com/MariaSSch/HackerU_To_Do_List.git) (React) [deploy](https://mariassch.github.io/HackerU_To_Do_List/)
+
+****
+
+
+
+
+<h2  style="margin-bottom: 30px; color: darkgrey"> Опыт тестирования</h2>
+
+[Тестирование учебной платформы Bumbleby (ТЗ, чек-листы, тест-кейсы, отчет о дефектах, отчет о тестировании, тесты Selenium IDE)](https://drive.google.com/drive/folders/1dNdoirRCx5sSkzOpePwOKU-tyhkTqOr_?usp=sharing)
