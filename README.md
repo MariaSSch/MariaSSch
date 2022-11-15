@@ -14,12 +14,16 @@
 
 ![HackerU](https://img.shields.io/badge/HackerU&nbsp;(ОАНО&nbsp;ДПО&nbsp;«Выштех»)&nbsp;2022-63666a?style=for-the-badge&logo)
 
-<h4  style="margin-bottom: 15px"> Специалист по Frontend разработке (Диплом о дополнительном образовании)</h4>
+<h4  style="margin-bottom: 15px"> Специалист по Frontend разработке </h4>
+
+[Диплом о профессиональной переподготовке](https://drive.google.com/file/d/1KrFcLgntwQ2K4n2dE8sXlrSs7ClN3jSM/view?usp=share_link)
 
 ![Tomsk](https://img.shields.io/badge/Томский&nbsp;ГУ,&nbsp;2022-63666a?style=for-the-badge&logo)
 
 
-<h4  style="margin-bottom: 30px"> Тестировщик программного обеспечения (Удостоверение о повыщении квалификации)</h4>
+<h4  style="margin-bottom: 30px"> Тестировщик программного обеспечения </h4>
+
+[Удостоверение о повыщении квалификации](https://drive.google.com/file/d/1qm_tB15hn5XSTUDpWW-_R35WhsCgAuQN/view?usp=share_link)
 
 <h2  style="margin-bottom: 30px; color: darkgrey"> Languages and Tools</h2>
 
@@ -34,13 +38,13 @@
 
 <h2  style="margin-bottom: 30px; color: darkgrey"> Опыт разработки</h2>
 
-- [Корзина товаров](https://github.com/MariaSSch/Frontend_Jr_Test_task_Cart_of_Goods_-model-.git) (React+React-Bootstrap)
+- [Корзина товаров (код)](https://github.com/MariaSSch/Frontend_Jr_Test_task_Cart_of_Goods_-model-.git) (React+React-Bootstrap)
 
-- [Авторизация с помощью Firebase](https://github.com/MariaSSch/Authentication-with-Firebase.git) (React) 
+- [Авторизация с помощью Firebase (код)](https://github.com/MariaSSch/Authentication-with-Firebase.git) (React) 
 
-- [Список пользователей](https://github.com/MariaSSch/Frontend_Jr_Test_task_from_RooXSolutions) (React+Webpack)  [deploy](https://mariassch.github.io/Frontend_Jr_Test_task_from_RooXSolutions/)
+- [Список пользователей (код)](https://github.com/MariaSSch/Frontend_Jr_Test_task_from_RooXSolutions) (React+Webpack)  [deploy](https://mariassch.github.io/Frontend_Jr_Test_task_from_RooXSolutions/)
 
-- [ToDo List](https://github.com/MariaSSch/HackerU_To_Do_List.git) (React) [deploy](https://mariassch.github.io/HackerU_To_Do_List/)
+- [ToDo List (код)](https://github.com/MariaSSch/ToDO-List.git) (React) [deploy](https://mariassch.github.io/ToDO-List//)
 
 ****
 
