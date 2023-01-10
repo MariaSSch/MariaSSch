@@ -1,6 +1,6 @@
-<div style="text-align: center">
+
 ![Header](https://github.com/MariaSSch/MariaSSch/blob/my_trunk/assets/header.JPG)
-</div>
+
 
 <h1>Будет задача - будет и решение</h1>
 
