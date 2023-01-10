@@ -1,4 +1,4 @@
-![Header]<img src="./assests/header.jpg" alt="drawing"/>
+![Header](https://github.com/MariaSSch/MariaSSch/blob/my_trunk/assets/header.JPG)
 
 
 <h1>Будет задача - будет и решение</h1>
