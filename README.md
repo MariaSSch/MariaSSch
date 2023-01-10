@@ -1,6 +1,6 @@
 ![Header](https://github.com/MariaSSch/MariaSSch/blob/62dc662a3e20d290e2e0616fc35fb68a1975c33b/assets/header.JPG)
 
-<h2>Я начинающий IT-специалист</h2>
+<h2>Будет задача - будет и решение</h2>
 
 <h2  style="margin-bottom: 30px; color: darkgrey">Courses</h2>
 
@@ -40,11 +40,13 @@
 
 - [Корзина товаров (код)](https://github.com/MariaSSch/Frontend_Jr_Test_task_Cart_of_Goods_-model-.git) (React+React-Bootstrap)
 
-- [Авторизация с помощью Firebase (код)](https://github.com/MariaSSch/Authentication-with-Firebase.git) (React) 
-
 - [Список пользователей (код)](https://github.com/MariaSSch/Frontend_Jr_Test_task_from_RooXSolutions) (React+Webpack)  [deploy](https://mariassch.github.io/Frontend_Jr_Test_task_from_RooXSolutions/)
 
 - [ToDo List (код)](https://github.com/MariaSSch/ToDO-List.git) (React) [deploy](https://mariassch.github.io/ToDO-List//)
+
+- [Тестовое задание: актуализация базы БИК](https://github.com/MariaSSch/BIC_DB) (Node.js) 
+- [Вольное продолжение тестового задания по актуализации базы БИК. Frontend часть (вывод карточкек объектов базы БИК)](https://github.com/MariaSSch/BIC_DB_frontend) (React)
+
 
 ****
 
