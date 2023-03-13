@@ -49,6 +49,7 @@
 - [Тестовое задание: актуализация базы БИК](https://github.com/MariaSSch/BIC_DB) (Node.js) 
 - [Вольное продолжение тестового задания по актуализации базы БИК. Frontend часть (вывод карточкек объектов базы БИК)](https://github.com/MariaSSch/BIC_DB_frontend) (React)
 
+- [HTML, CSS, JS, слайдеры JS и Swiper, просто верстка страницы (код)](https://github.com/MariaSSch/MOVEE-)  [deploy] (https://mariassch.github.io/MOVEE-/)
 
 ****
 
