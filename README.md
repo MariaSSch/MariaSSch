@@ -40,6 +40,10 @@
 
 <h2  style="margin-bottom: 30px; color: darkgrey"> Опыт разработки</h2>
 
+- [Магазин доставки. React, JSON-сервер, авторизация (код)](https://github.com/MariaSSch/FoodDelivery)  [deploy] (https://mariassch.github.io/FoodDelivery/)
+
+- [HTML, CSS, JS, слайдеры JS и Swiper, просто верстка страницы (код)](https://github.com/MariaSSch/MOVEE-)  [deploy] (https://mariassch.github.io/MOVEE-/)
+
 - [Корзина товаров (код)](https://github.com/MariaSSch/Frontend_Jr_Test_task_Cart_of_Goods_-model-.git) (React+React-Bootstrap)
 
 - [Список пользователей (код)](https://github.com/MariaSSch/Frontend_Jr_Test_task_from_RooXSolutions) (React+Webpack)  [deploy](https://mariassch.github.io/Frontend_Jr_Test_task_from_RooXSolutions/)
@@ -49,7 +53,7 @@
 - [Тестовое задание: актуализация базы БИК](https://github.com/MariaSSch/BIC_DB) (Node.js) 
 - [Вольное продолжение тестового задания по актуализации базы БИК. Frontend часть (вывод карточкек объектов базы БИК)](https://github.com/MariaSSch/BIC_DB_frontend) (React)
 
-- [HTML, CSS, JS, слайдеры JS и Swiper, просто верстка страницы (код)](https://github.com/MariaSSch/MOVEE-)  [deploy] (https://mariassch.github.io/MOVEE-/)
+
 
 ****
 
